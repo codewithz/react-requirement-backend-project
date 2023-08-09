@@ -20,8 +20,8 @@ The base URL for all Movies API endpoints is: `http://localhost:5000/api`
 - **Request Body:**
   ```json
   {
-    "email": "ilyasdabholkar9@gmail.com",
-    "name": "ilyas dabholkar",
+    "email": "codewithz@gmail.com",
+    "name": "Code With Z",
     "password": "Pass@123"
   }
   ```
@@ -41,7 +41,7 @@ The base URL for all Movies API endpoints is: `http://localhost:5000/api`
   ```json
   {
     "password": "Pass@123",
-    "email": "ilyasdabholkar9@gmail.com"
+    "email": "codewithz@gmail.com"
   }
   ```
 
@@ -111,7 +111,7 @@ The base URL for all Movies API endpoints is: `http://localhost:5000/api`
 - **Request Body:**
   ```json
   {
-    "title": "Phir Hera Pheri",
+    "title": "Maverick",
     "numberInStock": 35,
     "dailyRentalRate": 15,
     "genreId": "6395ff8d7fcf27d5b4554479"
@@ -145,7 +145,7 @@ The base URL for all Movies API endpoints is: `http://localhost:5000/api`
 - **Request Body:**
   ```json
   {
-    "title": "Jumanji: Welcome to the Jungle",
+    "title": "Titanic",
     "numberInStock": 31,
     "dailyRentalRate": 11,
     "genreId": "63960461ada2206587a25e87"
@@ -170,7 +170,7 @@ The base URL for all Movies API endpoints is: `http://localhost:5000/api`
 - **Request Body:**
   ```json
   {
-    "name": "abhishek",
+    "name": "Thomas",
     "isGold": true,
     "phone": "8787676543"
   }
@@ -197,9 +197,9 @@ The base URL for all Movies API endpoints is: `http://localhost:5000/api`
 - **Request Body:**
   ```json
   {
-    "name": "ilyas",
+    "name": "Thomas",
     "isGold": true,
-    "phone": "9876543212"
+    "phone": "8888899999"
   }
   ```
 
