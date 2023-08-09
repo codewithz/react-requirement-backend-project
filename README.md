@@ -267,7 +267,7 @@ The API will respond with appropriate error codes and messages for different sce
 
 ## Authentication
 
-Some endpoints require authentication. To authenticate, obtain an access token by logging in using the `LoginUser` endpoint. After successful login, you will receive an access token in the response. Use this token as a bearer token in the `Authorization` header for authenticated endpoints.
+Some endpoints require authentication. To authenticate, obtain an access token by logging in using the `LoginUser` endpoint. After successful login, you will receive an access token in the response. Use this token as a bearer token in the `Authorization` header for authenticated endpoints..
 
 Example:
 
