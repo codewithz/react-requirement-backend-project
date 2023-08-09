@@ -3,5 +3,5 @@
   "DATABASE_URL": "mongodb://localhost:27017/moviesapi",
   "PORT": "5000",
   "ENCRYPTION_SECRET": "moviesapisecret",
-  "AUTHENTICATION_ENABLED": false
+  "AUTHENTICATION_ENABLED": true
 }
