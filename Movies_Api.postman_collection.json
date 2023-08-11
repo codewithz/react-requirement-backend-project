@@ -34,7 +34,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"email\":\"ilyasdabholkar9@gmail.com\",\r\n    \"name\" : \"ilyas dabholkar\",\r\n    \"password\" : \"Pass@123\"\r\n}",
+					"raw": "{\r\n    \"email\":\"codewithz@gmail.com\",\r\n    \"name\" : \"Code With Z\",\r\n    \"password\" : \"Pass@123\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -85,7 +85,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"password\":\"Pass@123\",\r\n    \"email\":\"ilyasdabholkar9@gmail.com\"\r\n}",
+					"raw": "{\r\n    \"password\":\"Pass@123\",\r\n    \"email\":\"codewithz@gmail.com\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
